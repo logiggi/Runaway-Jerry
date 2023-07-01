@@ -1,6 +1,5 @@
 # [Tutorial] Run Away, Jerry!!
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c6fb74cc-7115-4997-8457-41c826cc15af/Untitled.png)
+![Untitled (1)](https://github.com/logiggi/Runaway-Jerry/assets/76464406/e78ef148-7367-45b3-85b1-665ee3220777)
 
 🐭***제리가 잠자는 👴할아버지의 콧털을 건드렸어요~~!!***
 
@@ -14,10 +13,14 @@
 
 ***3️⃣번 이상 부딪히면 게임이 끝나버리니 ⚠️조심하세요!!***
 
-![방향키.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a11913a1-b8a3-4935-989b-95f72b85a475/%EB%B0%A9%ED%96%A5%ED%82%A4.png)
+![방향키](https://github.com/logiggi/Runaway-Jerry/assets/76464406/8fca6017-3016-4cc5-bc07-3b425c795077)
 
 - *방향 키*
     - ***⬅️** : Move Left*
     - ***➡️** : Move Right*
     - ***⬆️** : Jump*
     - ***⬇️** : Slide*
+ 
+
+![Untitled (2)](https://github.com/logiggi/Runaway-Jerry/assets/76464406/4c7c62ad-57c7-4b5b-876f-02c95f699824)
+
